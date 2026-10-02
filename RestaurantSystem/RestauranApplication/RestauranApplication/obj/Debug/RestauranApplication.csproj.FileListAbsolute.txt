@@ -1,0 +1,11 @@
+D:\programming\C#Practice\RestauranApplication\RestauranApplication\bin\Debug\RestauranApplication.exe.config
+D:\programming\C#Practice\RestauranApplication\RestauranApplication\bin\Debug\RestauranApplication.exe
+D:\programming\C#Practice\RestauranApplication\RestauranApplication\bin\Debug\RestauranApplication.pdb
+D:\programming\C#Practice\RestauranApplication\RestauranApplication\obj\Debug\RestauranApplication.csproj.AssemblyReference.cache
+D:\programming\C#Practice\RestauranApplication\RestauranApplication\obj\Debug\RestauranApplication.Form1.resources
+D:\programming\C#Practice\RestauranApplication\RestauranApplication\obj\Debug\RestauranApplication.Properties.Resources.resources
+D:\programming\C#Practice\RestauranApplication\RestauranApplication\obj\Debug\RestauranApplication.csproj.GenerateResource.cache
+D:\programming\C#Practice\RestauranApplication\RestauranApplication\obj\Debug\RestauranApplication.csproj.CoreCompileInputs.cache
+D:\programming\C#Practice\RestauranApplication\RestauranApplication\obj\Debug\RestauranApplication.exe
+D:\programming\C#Practice\RestauranApplication\RestauranApplication\obj\Debug\RestauranApplication.pdb
+D:\programming\C#Practice\RestauranApplication\RestauranApplication\obj\Debug\RestauranApplication.exe.config
