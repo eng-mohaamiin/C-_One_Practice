@@ -1,156 +1,107 @@
+# LoanApp – C# Windows Forms
 
+## Introduction
 
-# Week 2 – Processing Data
+LoanApp is a simple loan qualification application developed using C# and Windows Forms. It determines whether a user qualifies for a loan based on salary and years of work experience.
 
-This week focuses on **processing data using C# Windows Forms**. The practical exercises demonstrate how to work with form controls, retrieve user input, validate form fields, concatenate strings, display results, clear input fields, and close a form.
+## Screenshots and Explanations
 
-## Topics Covered
+### 1. Application Introduction
 
-* Windows Forms
-* Labels and TextBoxes
-* User Input
-* Form Validation
-* `if` Statements
-* `return` Statement
-* String Concatenation
-* Displaying Results
-* Clearing TextBoxes
-* Closing the Form
-* Button Click Events
+![Application Introduction](./ScreenShots/introduction.png)
 
----
+**Description:**
 
-## 1. Form
+This screenshot introduces the LoanApp application interface. It shows the main form where users can enter their salary and years of work experience to check their loan qualification.
 
-This screenshot shows the main Windows Form used for the Week 2 practical exercise.
+### 2. Background Color and Result
 
-![Form](./ScreenShots/form.png)
+![Background and Result](./ScreenShots/bgResult.png)
 
----
+**Description:**
 
-## 2. Labels
+This screenshot demonstrates the application's background color and result display. After checking the user's information, the application displays a message indicating whether the user meets the loan requirements.
 
-This example demonstrates the use of **Labels** in a Windows Forms application to display text and information.
+### 3. Tab Order
 
-![Labels](./ScreenShots/labels.png)
+![Tab Order](./ScreenShots/TabOrder.png)
 
----
+**Description:**
 
-## 3. Concatenation
+This screenshot demonstrates how the `TabIndex` property is used to control the order in which controls receive keyboard focus. Users can press the Tab key to move between input fields and buttons without using a mouse.
 
-This example demonstrates **string concatenation** in C#.
+### 4. Background Color and Input Validation
 
-The first name and last name are combined to create a full name.
+![Background and Validation](./ScreenShots/BgValidtion.png)
 
-```csharp
-string firstName = textBox1.Text;
-string lastName = textBox2.Text;
+**Description:**
 
-string fullName = firstName + " " + lastName;
+This screenshot demonstrates the application's button color customization and input validation. The application checks the entered values and displays an appropriate message when the salary or work experience does not meet the required conditions.
 
-textBox3.Text = fullName;
-```
+### 5. Change Background Color Code
 
-![Concatenation](./ScreenShots/Concatenation.png)
+![Change Background Color Code](./ScreenShots/codeChangeBg.png)
 
----
+**Description:**
 
-## 4. Form Validation
+This screenshot shows the C# code responsible for changing the button colors. The `BackColor` property sets the background color, while the `ForeColor` property changes the text color of the buttons.
 
-Form validation is used to make sure that the required fields are not empty before processing the data.
+### 6. Try-Catch and Input Validation Code
 
-The application uses `if` statements and `string.IsNullOrWhiteSpace()` to validate the First Name and Last Name fields.
+![Try Catch and Validation Code](./ScreenShots/codeTryCatch.png)
 
-```csharp
-if (string.IsNullOrWhiteSpace(textBox1.Text))
-{
-    MessageBox.Show("First Name is required");
-    return;
-}
+**Description:**
 
-if (string.IsNullOrWhiteSpace(textBox2.Text))
-{
-    MessageBox.Show("Last Name is required");
-    return;
-}
-```
+This screenshot shows the code used for numeric input validation and exception handling. The `double.TryParse()` method checks whether the entered values can be converted into numbers, while the `try-catch` block handles unexpected exceptions.
 
-If a required field is empty, an error message is displayed and the program stops processing the current button click.
+## Features
 
-![Form Validation](./ScreenShots/form%20validation.png)
+* **Loan Qualification:** Determines whether a user meets the loan requirements.
+* **Salary Validation:** Requires a salary of at least 200.
+* **Experience Validation:** Requires at least 2 years of work experience.
+* **Input Validation:** Uses `double.TryParse()` to validate numeric input.
+* **Exception Handling:** Uses `try-catch` to handle unexpected errors.
+* **Button Color Customization:** Changes button background and text colors.
+* **Keyboard Navigation:** Uses `TabIndex` to organize the order of controls.
+* **Exit Functionality:** Closes the application using the Exit button.
 
----
+## Loan Qualification Requirements
 
-## 5. Result
+| Requirement             | Condition                |
+| ----------------------- | ------------------------ |
+| Minimum Salary          | 200                      |
+| Minimum Work Experience | 2 years                  |
+| Salary and Experience   | Must be positive numbers |
 
-This screenshot shows the complete result of the application after entering the user's information and processing the form.
+A user qualifies for a loan when the salary is at least 200 and work experience is at least 2 years.
 
-The application takes the **First Name** and **Last Name**, combines them, and displays the resulting **Full Name**.
+## Technologies Used
 
-![Result](./ScreenShots/Resuslt.png)
+* C#
+* .NET Windows Forms
+* Visual Studio
 
----
+## How to Run the Application
 
-## 6. Clear
+1. Clone or download the repository.
+2. Open the solution file (`.sln`) in Visual Studio.
+3. Build the project.
+4. Press `F5` to run the application.
+5. Enter the salary and years of work experience.
+6. Click the qualification button to view the result.
 
-The **Clear** button removes the entered data from the TextBoxes.
+## Learning Objectives
 
-```csharp
-private void button2_Click(object sender, EventArgs e)
-{
-    textBox1.Clear();
-    textBox2.Clear();
-    textBox3.Clear();
-}
-```
+This project demonstrates the use of:
 
-![Clear](./ScreenShots/Clear.png)
-
----
-
-## 7. Close Modal
-
-The **Close** button is used to close the current Windows Form.
-
-```csharp
-private void button5_Click(object sender, EventArgs e)
-{
-    this.Close();
-}
-```
-
-![Close Modal](./ScreenShots/Close%20modal.png)
-
----
-
-## 8. Technologies Used
-
-* **C#**
-* **.NET**
-* **Windows Forms**
-* **Visual Studio**
-
----
-
-## Learning Outcome
-
-After completing this practical exercise, I practiced how to:
-
-* Create a Windows Forms application.
-* Work with TextBoxes and Labels.
-* Receive input from users.
-* Validate form input using `if` statements.
-* Display validation messages using `MessageBox.Show()`.
-* Use `return` to stop execution.
-* Concatenate strings in C#.
-* Display processed data.
-* Clear TextBox values.
-* Close a Windows Form using `Close()`.
-
----
+* Variables and constants
+* Conditional statements (`if-else`)
+* Numeric input validation
+* Exception handling (`try-catch`)
+* Windows Forms event handling
+* Control properties and colors
+* Keyboard navigation using `TabIndex`
 
 ## Author
 
-**Mohamed Amiin**
-
-**C# Programming I – Week 2**
+**Mohamed Amin**
