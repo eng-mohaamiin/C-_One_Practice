@@ -1,0 +1,17 @@
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\bin\Debug\net8.0-windows\Vehicle Rental Maanagement System.exe
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\bin\Debug\net8.0-windows\Vehicle Rental Maanagement System.deps.json
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\bin\Debug\net8.0-windows\Vehicle Rental Maanagement System.runtimeconfig.json
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\bin\Debug\net8.0-windows\Vehicle Rental Maanagement System.dll
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\bin\Debug\net8.0-windows\Vehicle Rental Maanagement System.pdb
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\obj\Debug\net8.0-windows\Vehicle_Rental_Maanagement_System.Form1.resources
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\obj\Debug\net8.0-windows\Vehicle_Rental_Maanagement_System.Properties.Resources.resources
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\obj\Debug\net8.0-windows\Vehicle Rental Maanagement System.csproj.GenerateResource.cache
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\obj\Debug\net8.0-windows\Vehicle Rental Maanagement System.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\obj\Debug\net8.0-windows\Vehicle Rental Maanagement System.AssemblyInfoInputs.cache
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\obj\Debug\net8.0-windows\Vehicle Rental Maanagement System.AssemblyInfo.cs
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\obj\Debug\net8.0-windows\Vehicle Rental Maanagement System.csproj.CoreCompileInputs.cache
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\obj\Debug\net8.0-windows\Vehicle Rental Maanagement System.dll
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\obj\Debug\net8.0-windows\refint\Vehicle Rental Maanagement System.dll
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\obj\Debug\net8.0-windows\Vehicle Rental Maanagement System.pdb
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\obj\Debug\net8.0-windows\Vehicle Rental Maanagement System.genruntimeconfig.cache
+D:\programming\C#Practice\Vehicle Rental Maanagement System\Vehicle Rental Maanagement System\obj\Debug\net8.0-windows\ref\Vehicle Rental Maanagement System.dll
