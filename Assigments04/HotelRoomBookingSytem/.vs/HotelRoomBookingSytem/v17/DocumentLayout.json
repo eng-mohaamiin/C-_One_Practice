@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\C#Practice\\HotelRoomBookingSytem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2904B1EF-84EF-499D-9483-6D3BF7B3D315}|HotelRoomBookingSytem\\HotelRoomBookingSytem.csproj|d:\\programming\\c#practice\\hotelroombookingsytem\\hotelroombookingsytem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904B1EF-84EF-499D-9483-6D3BF7B3D315}|HotelRoomBookingSytem\\HotelRoomBookingSytem.csproj|solutionrelative:hotelroombookingsytem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904B1EF-84EF-499D-9483-6D3BF7B3D315}|HotelRoomBookingSytem\\HotelRoomBookingSytem.csproj|d:\\programming\\c#practice\\hotelroombookingsytem\\hotelroombookingsytem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2904B1EF-84EF-499D-9483-6D3BF7B3D315}|HotelRoomBookingSytem\\HotelRoomBookingSytem.csproj|solutionrelative:hotelroombookingsytem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\programming\\C#Practice\\HotelRoomBookingSytem\\HotelRoomBookingSytem\\Form1.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingSytem\\Form1.cs",
+              "ToolTip": "D:\\programming\\C#Practice\\HotelRoomBookingSytem\\HotelRoomBookingSytem\\Form1.cs*",
+              "RelativeToolTip": "HotelRoomBookingSytem\\Form1.cs*",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAawAABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:22:56.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\programming\\C#Practice\\HotelRoomBookingSytem\\HotelRoomBookingSytem\\Form1.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingSytem\\Form1.cs",
+              "ToolTip": "D:\\programming\\C#Practice\\HotelRoomBookingSytem\\HotelRoomBookingSytem\\Form1.cs [Design]*",
+              "RelativeToolTip": "HotelRoomBookingSytem\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:22:44.721Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
