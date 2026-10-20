@@ -1,0 +1,16 @@
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\bin\Debug\net8.0-windows\RegistrationFeesSystem.exe
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\bin\Debug\net8.0-windows\RegistrationFeesSystem.deps.json
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\bin\Debug\net8.0-windows\RegistrationFeesSystem.runtimeconfig.json
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\bin\Debug\net8.0-windows\RegistrationFeesSystem.dll
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\bin\Debug\net8.0-windows\RegistrationFeesSystem.pdb
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\obj\Debug\net8.0-windows\RegistrationFeesSystem.Form1.resources
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\obj\Debug\net8.0-windows\RegistrationFeesSystem.csproj.GenerateResource.cache
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\obj\Debug\net8.0-windows\RegistrationFeesSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\obj\Debug\net8.0-windows\RegistrationFeesSystem.AssemblyInfoInputs.cache
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\obj\Debug\net8.0-windows\RegistrationFeesSystem.AssemblyInfo.cs
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\obj\Debug\net8.0-windows\RegistrationFeesSystem.csproj.CoreCompileInputs.cache
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\obj\Debug\net8.0-windows\RegistrationFeesSystem.dll
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\obj\Debug\net8.0-windows\refint\RegistrationFeesSystem.dll
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\obj\Debug\net8.0-windows\RegistrationFeesSystem.pdb
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\obj\Debug\net8.0-windows\RegistrationFeesSystem.genruntimeconfig.cache
+D:\programming\C#Practice\RegistrationFeesSystem\RegistrationFeesSystem\obj\Debug\net8.0-windows\ref\RegistrationFeesSystem.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\C#Practice\\AirlineTicketBookingSytem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8B5A3C-5BDA-4425-8A91-3BC47DA8667A}|AirlineTicketBookingSytem\\AirlineTicketBookingSytem.csproj|d:\\programming\\c#practice\\airlineticketbookingsytem\\airlineticketbookingsytem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8B5A3C-5BDA-4425-8A91-3BC47DA8667A}|AirlineTicketBookingSytem\\AirlineTicketBookingSytem.csproj|solutionrelative:airlineticketbookingsytem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8B5A3C-5BDA-4425-8A91-3BC47DA8667A}|AirlineTicketBookingSytem\\AirlineTicketBookingSytem.csproj|d:\\programming\\c#practice\\airlineticketbookingsytem\\airlineticketbookingsytem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8B5A3C-5BDA-4425-8A91-3BC47DA8667A}|AirlineTicketBookingSytem\\AirlineTicketBookingSytem.csproj|solutionrelative:airlineticketbookingsytem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8B5A3C-5BDA-4425-8A91-3BC47DA8667A}|AirlineTicketBookingSytem\\AirlineTicketBookingSytem.csproj|d:\\programming\\c#practice\\airlineticketbookingsytem\\airlineticketbookingsytem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC8B5A3C-5BDA-4425-8A91-3BC47DA8667A}|AirlineTicketBookingSytem\\AirlineTicketBookingSytem.csproj|solutionrelative:airlineticketbookingsytem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\programming\\C#Practice\\AirlineTicketBookingSytem\\AirlineTicketBookingSytem\\Form1.cs",
+              "RelativeDocumentMoniker": "AirlineTicketBookingSytem\\Form1.cs",
+              "ToolTip": "D:\\programming\\C#Practice\\AirlineTicketBookingSytem\\AirlineTicketBookingSytem\\Form1.cs*",
+              "RelativeToolTip": "AirlineTicketBookingSytem\\Form1.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwOoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T06:06:37.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming\\C#Practice\\AirlineTicketBookingSytem\\AirlineTicketBookingSytem\\Program.cs",
+              "RelativeDocumentMoniker": "AirlineTicketBookingSytem\\Program.cs",
+              "ToolTip": "D:\\programming\\C#Practice\\AirlineTicketBookingSytem\\AirlineTicketBookingSytem\\Program.cs",
+              "RelativeToolTip": "AirlineTicketBookingSytem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T06:04:43.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\programming\\C#Practice\\AirlineTicketBookingSytem\\AirlineTicketBookingSytem\\Form1.cs",
+              "RelativeDocumentMoniker": "AirlineTicketBookingSytem\\Form1.cs",
+              "ToolTip": "D:\\programming\\C#Practice\\AirlineTicketBookingSytem\\AirlineTicketBookingSytem\\Form1.cs [Design]*",
+              "RelativeToolTip": "AirlineTicketBookingSytem\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T05:37:15.294Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
