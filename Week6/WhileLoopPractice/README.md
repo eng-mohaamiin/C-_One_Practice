@@ -76,25 +76,12 @@ For example, entering `5` displays:
 
 The Clear button removes the input and displayed results, while the Exit button closes the application.
 
-## What I Learned
 
-- How to use a `while` loop in C#.
-- How to get user input from a TextBox.
-- How to convert text into an integer.
-- How to display numbers in a ListBox.
-- How to clear a TextBox and ListBox.
-- How to close a Windows Forms application.
 
-## Technologies Used
-
-- C#
-- Windows Forms
-- Visual Studio
 
 ## Conclusion
 
-This assignment helped me understand how a `while` loop works in C# Windows Forms. It also helped me practice user input, displaying results, clearing data, and exiting an application.
-
+This assignment helped me understand how a `while` loop works in C# 
 ## Author
 
 **Mohamed Amiin**

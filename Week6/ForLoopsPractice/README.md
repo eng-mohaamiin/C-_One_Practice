@@ -33,22 +33,10 @@ The second image shows the application's user interface after running the progra
 
 The ListBox displays **"I Love Allah"** ten times, demonstrating that the `for` loop works correctly.
 
-## What I Learned
-
-- How to use a `for` loop in C#.
-- How to repeat a statement ten times.
-- How to display output in a Windows Forms ListBox.
-- How to connect C# code with a graphical user interface.
-
-## Technologies Used
-
-- C#
-- Windows Forms
-- Visual Studio
 
 ## Conclusion
 
-This practice helped me understand how a `for` loop works in C# and how to use it to display repeated messages in a Windows Forms application.
+This practice helped me understand how a `for` loop works in C# 
 
 ## Author
 
