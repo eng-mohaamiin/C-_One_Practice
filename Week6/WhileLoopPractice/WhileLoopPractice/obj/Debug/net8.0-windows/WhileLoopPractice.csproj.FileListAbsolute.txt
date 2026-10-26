@@ -1,0 +1,16 @@
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\bin\Debug\net8.0-windows\WhileLoopPractice.exe
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\bin\Debug\net8.0-windows\WhileLoopPractice.deps.json
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\bin\Debug\net8.0-windows\WhileLoopPractice.runtimeconfig.json
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\bin\Debug\net8.0-windows\WhileLoopPractice.dll
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\bin\Debug\net8.0-windows\WhileLoopPractice.pdb
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\obj\Debug\net8.0-windows\WhileLoopPractice.Form1.resources
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\obj\Debug\net8.0-windows\WhileLoopPractice.csproj.GenerateResource.cache
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\obj\Debug\net8.0-windows\WhileLoopPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\obj\Debug\net8.0-windows\WhileLoopPractice.AssemblyInfoInputs.cache
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\obj\Debug\net8.0-windows\WhileLoopPractice.AssemblyInfo.cs
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\obj\Debug\net8.0-windows\WhileLoopPractice.csproj.CoreCompileInputs.cache
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\obj\Debug\net8.0-windows\WhileLoopPractice.dll
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\obj\Debug\net8.0-windows\refint\WhileLoopPractice.dll
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\obj\Debug\net8.0-windows\WhileLoopPractice.pdb
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\obj\Debug\net8.0-windows\WhileLoopPractice.genruntimeconfig.cache
+D:\programming\C#Practice\WhileLoopPractice\WhileLoopPractice\obj\Debug\net8.0-windows\ref\WhileLoopPractice.dll

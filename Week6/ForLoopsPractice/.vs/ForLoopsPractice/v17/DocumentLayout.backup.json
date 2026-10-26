@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\C#Practice\\ForLoopsPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FE5533-2C68-45B1-A3AA-F28859F63F9C}|ForLoopsPractice\\ForLoopsPractice.csproj|d:\\programming\\c#practice\\forloopspractice\\forloopspractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FE5533-2C68-45B1-A3AA-F28859F63F9C}|ForLoopsPractice\\ForLoopsPractice.csproj|solutionrelative:forloopspractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FE5533-2C68-45B1-A3AA-F28859F63F9C}|ForLoopsPractice\\ForLoopsPractice.csproj|d:\\programming\\c#practice\\forloopspractice\\forloopspractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2FE5533-2C68-45B1-A3AA-F28859F63F9C}|ForLoopsPractice\\ForLoopsPractice.csproj|solutionrelative:forloopspractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\programming\\C#Practice\\ForLoopsPractice\\ForLoopsPractice\\Form1.cs",
+              "RelativeDocumentMoniker": "ForLoopsPractice\\Form1.cs",
+              "ToolTip": "D:\\programming\\C#Practice\\ForLoopsPractice\\ForLoopsPractice\\Form1.cs*",
+              "RelativeToolTip": "ForLoopsPractice\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T16:11:34.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\programming\\C#Practice\\ForLoopsPractice\\ForLoopsPractice\\Form1.cs",
+              "RelativeDocumentMoniker": "ForLoopsPractice\\Form1.cs",
+              "ToolTip": "D:\\programming\\C#Practice\\ForLoopsPractice\\ForLoopsPractice\\Form1.cs [Design]*",
+              "RelativeToolTip": "ForLoopsPractice\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T16:09:59.275Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

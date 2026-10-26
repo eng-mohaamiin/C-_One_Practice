@@ -1,0 +1,16 @@
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\obj\Debug\net8.0-windows\ForLoopsPractice.Form1.resources
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\obj\Debug\net8.0-windows\ForLoopsPractice.csproj.GenerateResource.cache
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\obj\Debug\net8.0-windows\ForLoopsPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\obj\Debug\net8.0-windows\ForLoopsPractice.AssemblyInfoInputs.cache
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\obj\Debug\net8.0-windows\ForLoopsPractice.AssemblyInfo.cs
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\obj\Debug\net8.0-windows\ForLoopsPractice.csproj.CoreCompileInputs.cache
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\bin\Debug\net8.0-windows\ForLoopsPractice.exe
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\bin\Debug\net8.0-windows\ForLoopsPractice.deps.json
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\bin\Debug\net8.0-windows\ForLoopsPractice.runtimeconfig.json
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\bin\Debug\net8.0-windows\ForLoopsPractice.dll
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\bin\Debug\net8.0-windows\ForLoopsPractice.pdb
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\obj\Debug\net8.0-windows\ForLoopsPractice.dll
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\obj\Debug\net8.0-windows\refint\ForLoopsPractice.dll
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\obj\Debug\net8.0-windows\ForLoopsPractice.pdb
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\obj\Debug\net8.0-windows\ForLoopsPractice.genruntimeconfig.cache
+D:\programming\C#Practice\ForLoopsPractice\ForLoopsPractice\obj\Debug\net8.0-windows\ref\ForLoopsPractice.dll
