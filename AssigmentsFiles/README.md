@@ -43,8 +43,9 @@ Shows how `StreamReader`, `File.OpenText()`, and `Read()` are used to read the f
 ### 5. Read All File Code
 Shows how `StreamReader` and `ReadToEnd()` are used to read all the contents of the text file.
 
-![Read All File Code](./ScreenShots/image%20%20code%20read%20all%20files.png)
+![Read All File Code](./ScreenShots/image%20code%20%20read%20all%20files.png)
 
+image code  read all files
 ### 6. Delete File Code
 Shows how `File.Exists()` checks whether the file exists and `File.Delete()` deletes it.
 
