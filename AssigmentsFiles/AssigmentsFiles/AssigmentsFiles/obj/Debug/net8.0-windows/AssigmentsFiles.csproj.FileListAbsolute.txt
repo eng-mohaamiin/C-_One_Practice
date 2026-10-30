@@ -1,0 +1,16 @@
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\bin\Debug\net8.0-windows\AssigmentsFiles.exe
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\bin\Debug\net8.0-windows\AssigmentsFiles.deps.json
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\bin\Debug\net8.0-windows\AssigmentsFiles.runtimeconfig.json
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\bin\Debug\net8.0-windows\AssigmentsFiles.dll
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\bin\Debug\net8.0-windows\AssigmentsFiles.pdb
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\obj\Debug\net8.0-windows\AssigmentsFiles.Form1.resources
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\obj\Debug\net8.0-windows\AssigmentsFiles.csproj.GenerateResource.cache
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\obj\Debug\net8.0-windows\AssigmentsFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\obj\Debug\net8.0-windows\AssigmentsFiles.AssemblyInfoInputs.cache
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\obj\Debug\net8.0-windows\AssigmentsFiles.AssemblyInfo.cs
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\obj\Debug\net8.0-windows\AssigmentsFiles.csproj.CoreCompileInputs.cache
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\obj\Debug\net8.0-windows\AssigmentsFiles.dll
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\obj\Debug\net8.0-windows\refint\AssigmentsFiles.dll
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\obj\Debug\net8.0-windows\AssigmentsFiles.pdb
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\obj\Debug\net8.0-windows\AssigmentsFiles.genruntimeconfig.cache
+D:\programming\C#Practice\AssigmentsFiles\AssigmentsFiles\obj\Debug\net8.0-windows\ref\AssigmentsFiles.dll
