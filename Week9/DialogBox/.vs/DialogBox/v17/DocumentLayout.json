@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\C#Practice\\DialogBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21135E23-EC6B-4901-9660-EF0E2D13C0D3}|DialogBox\\DialogBox.csproj|d:\\programming\\c#practice\\dialogbox\\dialogbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21135E23-EC6B-4901-9660-EF0E2D13C0D3}|DialogBox\\DialogBox.csproj|solutionrelative:dialogbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21135E23-EC6B-4901-9660-EF0E2D13C0D3}|DialogBox\\DialogBox.csproj|d:\\programming\\c#practice\\dialogbox\\dialogbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21135E23-EC6B-4901-9660-EF0E2D13C0D3}|DialogBox\\DialogBox.csproj|solutionrelative:dialogbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\programming\\C#Practice\\DialogBox\\DialogBox\\Form1.cs",
+              "RelativeDocumentMoniker": "DialogBox\\Form1.cs",
+              "ToolTip": "D:\\programming\\C#Practice\\DialogBox\\DialogBox\\Form1.cs*",
+              "RelativeToolTip": "DialogBox\\Form1.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:50:06.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\programming\\C#Practice\\DialogBox\\DialogBox\\Form1.cs",
+              "RelativeDocumentMoniker": "DialogBox\\Form1.cs",
+              "ToolTip": "D:\\programming\\C#Practice\\DialogBox\\DialogBox\\Form1.cs [Design]*",
+              "RelativeToolTip": "DialogBox\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:47:30.508Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

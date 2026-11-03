@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\programming\\C#Practice\\AssigmentsFiles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7E3F8C2-9AE6-436D-AAAC-22072020F776}|AssigmentsFiles\\AssigmentsFiles.csproj|d:\\programming\\c#practice\\assigmentsfiles\\assigmentsfiles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7E3F8C2-9AE6-436D-AAAC-22072020F776}|AssigmentsFiles\\AssigmentsFiles.csproj|solutionrelative:assigmentsfiles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F7E3F8C2-9AE6-436D-AAAC-22072020F776}|AssigmentsFiles\\AssigmentsFiles.csproj|d:\\programming\\c#practice\\assigmentsfiles\\assigmentsfiles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F7E3F8C2-9AE6-436D-AAAC-22072020F776}|AssigmentsFiles\\AssigmentsFiles.csproj|solutionrelative:assigmentsfiles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E3F8C2-9AE6-436D-AAAC-22072020F776}|AssigmentsFiles\\AssigmentsFiles.csproj|d:\\programming\\c#practice\\assigmentsfiles\\assigmentsfiles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E3F8C2-9AE6-436D-AAAC-22072020F776}|AssigmentsFiles\\AssigmentsFiles.csproj|solutionrelative:assigmentsfiles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\programming\\C#Practice\\AssigmentsFiles\\AssigmentsFiles\\Form1.cs",
               "RelativeDocumentMoniker": "AssigmentsFiles\\Form1.cs",
               "ToolTip": "D:\\programming\\C#Practice\\AssigmentsFiles\\AssigmentsFiles\\Form1.cs",
               "RelativeToolTip": "AssigmentsFiles\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-30T17:35:48.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\programming\\C#Practice\\AssigmentsFiles\\AssigmentsFiles\\Form1.cs",
               "RelativeDocumentMoniker": "AssigmentsFiles\\Form1.cs",

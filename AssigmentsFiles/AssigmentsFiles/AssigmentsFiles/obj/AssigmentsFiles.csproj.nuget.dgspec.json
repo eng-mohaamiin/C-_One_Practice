@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programming\\C#Practice\\AssigmentsFiles\\AssigmentsFiles\\AssigmentsFiles.csproj": {}
+    "D:\\programming\\C#_Practice\\C#_One_Practice\\AssigmentsFiles\\AssigmentsFiles\\AssigmentsFiles\\AssigmentsFiles.csproj": {}
   },
   "projects": {
-    "D:\\programming\\C#Practice\\AssigmentsFiles\\AssigmentsFiles\\AssigmentsFiles.csproj": {
+    "D:\\programming\\C#_Practice\\C#_One_Practice\\AssigmentsFiles\\AssigmentsFiles\\AssigmentsFiles\\AssigmentsFiles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programming\\C#Practice\\AssigmentsFiles\\AssigmentsFiles\\AssigmentsFiles.csproj",
+        "projectUniqueName": "D:\\programming\\C#_Practice\\C#_One_Practice\\AssigmentsFiles\\AssigmentsFiles\\AssigmentsFiles\\AssigmentsFiles.csproj",
         "projectName": "AssigmentsFiles",
-        "projectPath": "D:\\programming\\C#Practice\\AssigmentsFiles\\AssigmentsFiles\\AssigmentsFiles.csproj",
+        "projectPath": "D:\\programming\\C#_Practice\\C#_One_Practice\\AssigmentsFiles\\AssigmentsFiles\\AssigmentsFiles\\AssigmentsFiles.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\programming\\C#Practice\\AssigmentsFiles\\AssigmentsFiles\\obj\\",
+        "outputPath": "D:\\programming\\C#_Practice\\C#_One_Practice\\AssigmentsFiles\\AssigmentsFiles\\AssigmentsFiles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

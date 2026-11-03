@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogBox", "DialogBox\DialogBox.csproj", "{21135E23-EC6B-4901-9660-EF0E2D13C0D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21135E23-EC6B-4901-9660-EF0E2D13C0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21135E23-EC6B-4901-9660-EF0E2D13C0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21135E23-EC6B-4901-9660-EF0E2D13C0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21135E23-EC6B-4901-9660-EF0E2D13C0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {822AC67A-1E2B-49F6-96F2-0B46DC6CA5A8}
+	EndGlobalSection
+EndGlobal

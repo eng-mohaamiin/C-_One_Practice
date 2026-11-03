@@ -1,0 +1,16 @@
+D:\programming\C#Practice\DialogBox\DialogBox\bin\Debug\net8.0-windows\DialogBox.exe
+D:\programming\C#Practice\DialogBox\DialogBox\bin\Debug\net8.0-windows\DialogBox.deps.json
+D:\programming\C#Practice\DialogBox\DialogBox\bin\Debug\net8.0-windows\DialogBox.runtimeconfig.json
+D:\programming\C#Practice\DialogBox\DialogBox\bin\Debug\net8.0-windows\DialogBox.dll
+D:\programming\C#Practice\DialogBox\DialogBox\bin\Debug\net8.0-windows\DialogBox.pdb
+D:\programming\C#Practice\DialogBox\DialogBox\obj\Debug\net8.0-windows\DialogBox.Form1.resources
+D:\programming\C#Practice\DialogBox\DialogBox\obj\Debug\net8.0-windows\DialogBox.csproj.GenerateResource.cache
+D:\programming\C#Practice\DialogBox\DialogBox\obj\Debug\net8.0-windows\DialogBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#Practice\DialogBox\DialogBox\obj\Debug\net8.0-windows\DialogBox.AssemblyInfoInputs.cache
+D:\programming\C#Practice\DialogBox\DialogBox\obj\Debug\net8.0-windows\DialogBox.AssemblyInfo.cs
+D:\programming\C#Practice\DialogBox\DialogBox\obj\Debug\net8.0-windows\DialogBox.csproj.CoreCompileInputs.cache
+D:\programming\C#Practice\DialogBox\DialogBox\obj\Debug\net8.0-windows\DialogBox.dll
+D:\programming\C#Practice\DialogBox\DialogBox\obj\Debug\net8.0-windows\refint\DialogBox.dll
+D:\programming\C#Practice\DialogBox\DialogBox\obj\Debug\net8.0-windows\DialogBox.pdb
+D:\programming\C#Practice\DialogBox\DialogBox\obj\Debug\net8.0-windows\DialogBox.genruntimeconfig.cache
+D:\programming\C#Practice\DialogBox\DialogBox\obj\Debug\net8.0-windows\ref\DialogBox.dll
