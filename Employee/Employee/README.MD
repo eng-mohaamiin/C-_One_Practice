@@ -22,19 +22,19 @@ The **Employee Attendance Management System** is a Windows Forms application dev
 
 This screenshot shows the main interface of the Employee Attendance Management System. It contains input fields for Employee ID, Name, and Department, attendance options (Present and Absent), and buttons for managing employee records.
 
-![Application User Interface](ScreenShots/image%20ui%20results.png)
+![Application User Interface](../ScreenShots/image%20ui%20results.png)
 
 ### 2. Input Validation
 
 The application validates employee information before saving. It checks that the employee ID is a valid non-negative integer, the name and department are not empty, and an attendance option is selected.
 
-![Input Validations](ScreenShots/image%20code%20all%20inputs%20validations.png)
+![Input Validations](../ScreenShots/image%20code%20all%20inputs%20validations.png)
 
 ### 3. Create and Save Employee Records
 
 After successful validation, employee information is saved into `D:\attendence.txt` using `File.AppendText()` and `StreamWriter`. New records are appended without deleting previously saved information.
 
-![Create and Save File](ScreenShots/image%20code%20create%20files%20.png)
+![Create and Save File](../ScreenShots/image%20code%20create%20files%20.png)
 
 The employee information is stored in the following format:
 
@@ -53,25 +53,25 @@ Example:
 
 The Read button uses `StreamReader` and `ReadLine()` inside a `while` loop to read employee records from the text file and display them in the ListBox.
 
-![Reading File Data](ScreenShots/image%20code%20reading%20file%20data.png)
+![Reading File Data](../ScreenShots/image%20code%20reading%20file%20data.png)
 
 ### 5. Count Total Employees
 
 The Count button reads the text file line by line and increments a counter for every record. Finally, it displays the total number of employee records in the ListBox.
 
-![Counting Employees](ScreenShots/image%20code%20counting.png)
+![Counting Employees](../ScreenShots/image%20code%20counting.png)
 
 ### 6. Remove Employee
 
 The Remove button checks whether an employee has been selected in the ListBox. If no employee is selected, it displays a validation message. Otherwise, it removes the selected item from the ListBox.
 
-![Remove Employee](ScreenShots/image%20code%20remove.png)
+![Remove Employee](../ScreenShots/image%20code%20remove.png)
 
 ### 7. Clear All Inputs
 
 The Clear button resets all input fields, unchecks the attendance radio buttons, and clears all displayed records from the ListBox.
 
-![Clear All Inputs](ScreenShots/image%20code%20all%20inputs%20clear%20values.png)
+![Clear All Inputs](../ScreenShots/image%20code%20all%20inputs%20clear%20values.png)
 
 ## Author
 
