@@ -1,0 +1,16 @@
+D:\programming\C#Practice\Employee\Employee\bin\Debug\net8.0-windows\Employee.exe
+D:\programming\C#Practice\Employee\Employee\bin\Debug\net8.0-windows\Employee.deps.json
+D:\programming\C#Practice\Employee\Employee\bin\Debug\net8.0-windows\Employee.runtimeconfig.json
+D:\programming\C#Practice\Employee\Employee\bin\Debug\net8.0-windows\Employee.dll
+D:\programming\C#Practice\Employee\Employee\bin\Debug\net8.0-windows\Employee.pdb
+D:\programming\C#Practice\Employee\Employee\obj\Debug\net8.0-windows\Employee.Form1.resources
+D:\programming\C#Practice\Employee\Employee\obj\Debug\net8.0-windows\Employee.csproj.GenerateResource.cache
+D:\programming\C#Practice\Employee\Employee\obj\Debug\net8.0-windows\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#Practice\Employee\Employee\obj\Debug\net8.0-windows\Employee.AssemblyInfoInputs.cache
+D:\programming\C#Practice\Employee\Employee\obj\Debug\net8.0-windows\Employee.AssemblyInfo.cs
+D:\programming\C#Practice\Employee\Employee\obj\Debug\net8.0-windows\Employee.csproj.CoreCompileInputs.cache
+D:\programming\C#Practice\Employee\Employee\obj\Debug\net8.0-windows\Employee.dll
+D:\programming\C#Practice\Employee\Employee\obj\Debug\net8.0-windows\refint\Employee.dll
+D:\programming\C#Practice\Employee\Employee\obj\Debug\net8.0-windows\Employee.pdb
+D:\programming\C#Practice\Employee\Employee\obj\Debug\net8.0-windows\Employee.genruntimeconfig.cache
+D:\programming\C#Practice\Employee\Employee\obj\Debug\net8.0-windows\ref\Employee.dll
